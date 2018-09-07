@@ -15,8 +15,6 @@ This "Restaurant Review app" is incrementally convert a static webpage to a mobi
 
 4. With your server running, visit the site: `http://localhost:8000`.
 
-### Demo link: https://amitms.github.io/restaurant_reviews_app_stage_1/
-
 ### Code Dependencies:
 1. [Project Restaurant Reviews (Stage 1) - Starter Code](https://github.com/udacity/mws-restaurant-stage-1)
 2. [Normalize.css](https://necolas.github.io/normalize.css/)
